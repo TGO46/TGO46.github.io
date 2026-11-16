@@ -31,7 +31,7 @@ category 使用 分享、团聚、AI。当前没有编造的活动报道。正�
 
 ## V2 品牌与多语言
 
-当前页面使用 v2-style.css / v2-app.js。中英翻译在 v2-app.js 的 english 与页面 data-i 字段维护；语言偏好在浏览器本地保存。首屏 hero.jpg，标准字 wordmark.png，方形徽标 badge.png。来源：TGO 首页、/event、/event/1905 的黑金橙品牌与活动图文层级。
+当前页面使用 v3-style.css / v2-app.js。中英翻译在 v2-app.js 的 english 与页面 data-i 字段维护；语言偏好在浏览器本地保存。首屏 hero.jpg，标准字 wordmark.png，方形徽标 badge.png。来源：TGO 首页、/event、/event/1905 的黑金橙品牌与活动图文层级。
 
 成长印记 posts.json 支持：title、title_en、date、location、location_en、category（分享/团聚）、summary、summary_en、url、cover、photos（图片路径数组）、video（视频文件路径）、visibility（public）。私密内容不可放入公开 JSON，visibility 不是安全边界。图片使用相对路径或 HTTPS 链接；视频推荐压缩 MP4，并控制体积。原始隐私照片须先经相关参与者确认公开范围。
 

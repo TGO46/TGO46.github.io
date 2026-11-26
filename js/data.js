@@ -7,7 +7,7 @@
 window.TGO_MEMBERS = [
   { name: '郝彦飞', en: 'Hao Yanfei', role: '组长', roleEn: 'Group leader', org: '联甄科技 · CEO', orgEn: '联甄科技 · CEO', avatar: 'hao-yanfei' },
   { name: '刘军立', en: 'Liu Junli', role: '纪律委员', roleEn: 'Discipline', org: '容联七陌 · 技术总监', orgEn: '容联七陌 · Technical Director', avatar: 'liu-junli' },
-  { name: '范明辉', en: 'Fan Minghui', role: '学习委员', roleEn: 'Learning', org: '帆软软件 · 技术总监', orgEn: '帆软软件 · Technical Director', avatar: 'fan-minghui' },
+  { name: '范鸣晖', en: 'Fan Minghui', role: '学习委员', roleEn: 'Learning', org: '帆软软件 · 技术总监', orgEn: '帆软软件 · Technical Director', avatar: 'fan-minghui' },
   { name: '林顺', en: 'Lin Shun', role: '互动委员', roleEn: 'Engagement', org: '迦游网络 · 技术VP', orgEn: '迦游网络 · VP of Technology', avatar: 'lin-shun' },
   { name: '王龙飞', en: 'Wang Longfei', role: '财务委员', roleEn: 'Finance', org: '企享云 · 联合创始人', orgEn: '企享云 · Co-founder', avatar: 'wang-longfei' },
   { name: '康建华', en: 'Kang Jianhua', role: '团建委员', roleEn: 'Retreats', org: '铂金智慧 · 技术VP', orgEn: '铂金智慧 · VP of Technology', avatar: 'kang-jianhua' },
